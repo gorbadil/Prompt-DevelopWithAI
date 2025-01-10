@@ -1,0 +1,11 @@
+# Weighted Terms
+
+Weighted terms in image prompting are a technique used to control the output of AI-generated images by emphasizing or de-emphasizing certain words or phrases within a prompt. This method influences the model’s focus and the resulting image. Models like Stable Diffusion and Midjourney allow users to assign weights to terms, which can significantly alter the generated image. For example, using (mountain:1.5) would emphasize the mountain aspect in an image prompt. Positive weights increase emphasis on desired elements, while negative weights de-emphasize or exclude elements. The placement of terms in the prompt also affects their influence, with words at the beginning generally having more impact. Adjusting weights often requires multiple attempts to achieve the desired result, and overemphasis on certain terms may limit creativity and diversity in generated images.
+
+## Controlling Image Output
+
+Weighted terms offer users a way to control the output of AI-generated images by guiding the model's attention to specific elements or concepts. By assigning weights to terms, users can influence the prominence of certain features in the generated image. This control allows users to fine-tune the visual content to align with their creative vision or project requirements. Weighted terms are particularly useful when users want to emphasize or de-emphasize specific elements in the image, such as colors, objects, textures, or themes. By adjusting the weights of terms in the prompt, users can achieve more customized and targeted outputs that meet their artistic or practical needs.
+
+## Enhancing Image Composition
+
+Weighted terms play a crucial role in enhancing the composition and visual appeal of AI-generated images. By assigning weights to terms that describe desired visual elements, users can guide the model to focus on specific aspects of the image. This targeted approach helps improve the coherence, balance, and aesthetics of the generated image by ensuring that key elements are accurately represented. Weighted terms enable users to create visually compelling images that reflect their artistic preferences and storytelling objectives. By strategically adjusting the weights of terms, users can enhance the composition, style, and narrative of AI-generated images, resulting in more engaging and impactful visual content.
