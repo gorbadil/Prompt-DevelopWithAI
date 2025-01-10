@@ -4,6 +4,7 @@
    1. What are LLMs
    2. Types of LLMs
    3. How are LLMs Built?
+   4. Vocabulary
 2. Ontro to Prompting
    1. Basic Prompting
    2. Need For Promp eng
@@ -49,3 +50,5 @@
    2. Quality Boosters
    3. Weighted Terms
    4. Fix Deformed Generations
+
+-[Roadmap SH Link](https://roadmap.sh/prompt-engineering)
