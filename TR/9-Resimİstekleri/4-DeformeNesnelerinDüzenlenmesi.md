@@ -1,0 +1,11 @@
+# Deforme Nesnelerin Düzeltilmesi
+
+Görüntü isteminde deforme nesneler, özellikle eller ve ayaklar gibi insan vücut parçalarını içeren durumlarda, üretici modellerden çıkan ve istenen estetik veya yapısal kaliteyi karşılamayan çıktılara atıfta bulunur. Bu sorun genellikle, AI'ya belirli istenmeyen özellikleri vurgulamamasını söyleyen negatif istemler kullanılarak hafifletilebilir. Bu sorunu ele almak için ana stratejiler arasında istem tasarımının rafine edilmesi, negatif istemler ve ağırlıklı terimlerin kullanılması, uygun modellerin seçilmesi, yinelemeli süreçlerin ve geri bildirim döngülerinin uygulanması, modellerin güncel tutulması ve son işlem tekniklerinin uygulanması yer alır. Mevcut modeller hala belirli deformasyonlarla mücadele edebilirken, bu stratejilerin etkili bir şekilde kullanılması görüntü kalitesini önemli ölçüde artırabilir. Üretici modeller geliştikçe, bu tür tekniklere olan ihtiyaç azalması beklenmektedir, ancak AI tarafından üretilen görüntülerle çalışan herkes için çıktılarının istenen kalite ve gerçekçilik standartlarını karşılamasını sağlamak için bu teknikler gerekli olmaya devam etmektedir.
+
+## İstem Tasarımının Rafine Edilmesi
+
+İstem tasarımının rafine edilmesi, AI görüntü çıktılarındaki deforme nesnelerin düzeltilmesi için çok önemlidir. Açık, spesifik ve ayrıntılı istemler oluşturarak, kullanıcılar modelin beklentilerine uygun görüntüler üretmesini yönlendirebilir. Tanımlayıcı talimatlar sağlamak, görsel öğeleri belirtmek ve belirsiz dilden kaçınmak, üretilen görüntülerdeki deformasyonları ve yanlışlıkları önlemeye yardımcı olabilir. İyi hazırlanmış istemler, modelin kullanıcı tercihlerini anlamasını geliştirir ve yanlış yorumlama veya hataların olasılığını azaltarak ortaya çıkan görüntülerin kalitesini artırır.
+
+## Negatif İstemler ve Ağırlıklı Terimler
+
+Negatif istemler ve ağırlıklı terimler, AI görüntü isteminde deforme nesnelerin düzeltilmesi için etkili araçlardır. Negatif istemler, modelin deformasyonlara yol açabilecek belirli özelliklerden veya karakteristiklerden kaçınmasını talimat verir. Ne çıkarılacağını açıkça belirterek, kullanıcılar üretilen görüntülerde istenmeyen bozulmaları önleyebilir. Ağırlıklı terimler, kullanıcıların istem içindeki belirli öğelere vurgu yapmasını kontrol etmelerini sağlar, böylece modelin odaklanmasını ince ayar yapabilir ve üretilen görüntülerin doğr
