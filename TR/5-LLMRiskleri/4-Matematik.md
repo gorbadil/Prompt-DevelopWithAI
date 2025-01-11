@@ -1,0 +1,3 @@
+# Matematik
+
+LLM'ler matematikle mücadele eder. Basit matematik problemlerini çözmede gelişmiş olsalar da, küçük anlamsal varyasyonlar olduğunda daha karmaşık matematik problemlerini çözerken yetersiz kalırlar. Bu, özellikle matematiksel akıl yürütme açısından önemlidir. İlerlemelere rağmen, genellikle basit matematik problemlerini çözmede başarısız olurlar ve daha karmaşık olanları etkili bir şekilde ele alamazlar. Çalışmalar, LLM'lerin gerçek mantıksal akıl yürütme yerine büyük ölçüde desen tanımaya dayandığını ve problem kelimelemelerinde veya alakasız bilgilerde küçük değişikliklerle karşılaştıklarında önemli performans düşüşlerine yol açtığını göstermektedir. Bu, akıl yürütme yeteneklerindeki kritik bir sınırlamayı vurgulamaktadır.
